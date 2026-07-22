@@ -1,8 +1,7 @@
 // Problem 1
 // Create a variable for your lucky number and print it.
 
-
-
+let lucky_number = 10;
 // Problem 2
 // Create a variable for the number of hours you sleep and print it.
 

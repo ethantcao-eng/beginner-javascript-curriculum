@@ -3,12 +3,19 @@
 // Print their quotient and remainder on separate lines.
 
 
+let z = 5;
+let h = 67;
+console.log((h-h%z)/z);
+console.log(h%5);
 
 // Problem 2
 // Create variables for your favorite animal and favorite color.
 // Print a sentence combining them like: "A blue tiger would be awesome!"
 
+let favoriteanimal = "koala";
+let favoritecolor = "turquoise";
 
+console.lo
 
 // Problem 3
 // Use a for loop to print all the even numbers from 0 to 10 (including 10).

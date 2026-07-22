@@ -2,11 +2,24 @@
 // Create a variable for height in centimeters.
 // Print "Tall" if the height is greater than 170, otherwise print "Short".
 
+let height = "160";
+if (height>170){
+    console.log("tall")
 
+} else {
+    console.log("short")
+}
 
 // Problem 2
 // Create a variable for age.
 // If they are 18 or older, print "Adult", else print "Minor".
+let age = "16";
+if (age>=18){
+    console.log("adult")
+
+} else {
+    console.log("minor")
+}
 
 
 
