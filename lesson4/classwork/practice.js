@@ -3,8 +3,11 @@
 // Print the first and last.
 // Then add another brand using push() and print the updated list.
 
+let car_brands = ["honda", "toyota", "tesla", "jeep"];
+console.log(car_brands[0] + " "+car_brands[3]);
 
-
+car_brands.push("lexus")
+console.log(car_brands)
 // Problem 2
 // Create a list of 5 numbers.
 // Print the number at index 2.
